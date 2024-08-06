@@ -588,8 +588,6 @@ function writeDatatoDropbox() {
         });
         datastr = JSON.stringify(dataobj); //no pretty print for now, saves space and data file is unwieldy to look at for larger numbers of trials
 
-		localStorage.setItem('mt_' + trial.filename, datastr);
-		
         var success = false
         var i = 1;
         var timeout_seed = 1000;

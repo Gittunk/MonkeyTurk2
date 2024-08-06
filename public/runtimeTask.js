@@ -21,6 +21,8 @@ var tabletlist = [
 	"Discovery_midgray",
 	"Curiosity_midgray",
 	"Apollo_midgray",
+	"Challenger_midgray",
+	"Atlantis_midgray",
 	"__________________",
 	"__________________",
 	"Voyager",
